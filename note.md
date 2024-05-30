@@ -21,3 +21,4 @@ remote
 - git merge {branch name} -> hợp nhất nhánh
 - git branch -d {branch name} -> xóa nhánh
 - git push -> Đẩy lên
+- git remote add {tên thay thế cho liên kết} liên kết (pull/push) -> tạo thay thế cho link (pull/push code)
