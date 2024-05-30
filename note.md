@@ -16,3 +16,4 @@ branch
 - git branch
 - git checkout -b {branch name} -> tạo nhánh mới
 - git merge {branch name} -> hợp nhất nhánh
+- git branch -d {branch name} -> xóa nhánh
