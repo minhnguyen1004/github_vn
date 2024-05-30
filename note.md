@@ -1,6 +1,7 @@
 # Term
 Repository(repo)
 branch
+Conflict -> Xung đột
 
 # command
 - git init
