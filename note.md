@@ -2,6 +2,8 @@
 Repository(repo)
 branch
 Conflict -> Xung đột
+local
+remote
 
 # command
 - git init
@@ -18,3 +20,4 @@ Conflict -> Xung đột
 - git checkout -b {branch name} -> tạo nhánh mới
 - git merge {branch name} -> hợp nhất nhánh
 - git branch -d {branch name} -> xóa nhánh
+- git push -> Đẩy lên
