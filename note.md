@@ -15,3 +15,4 @@ branch
 - git checkout {branch name}
 - git branch
 - git checkout -b {branch name} -> tạo nhánh mới
+- git merge {branch name} -> hợp nhất nhánh
